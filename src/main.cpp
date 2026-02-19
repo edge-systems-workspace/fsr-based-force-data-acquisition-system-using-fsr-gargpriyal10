@@ -10,11 +10,8 @@
  * displays structured output via Serial Monitor.
  */
 
- // TODO 1:
- // Define FSR analog pin (Use A0)
+int value = 0;
 
- // TODO 2:
- // Create variable to store sensor reading
 
 void setup() {
 
